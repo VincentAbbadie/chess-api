@@ -1,2 +1,2 @@
-# chess-api
-API of the application chess opening library
+# chess-front
+Front of the application chess opening library
